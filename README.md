@@ -12,6 +12,6 @@ Links
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Qase.io](https://img.shields.io/badge/-Qase.io-090909?style=for-the-badge&logo=qase.io&logoColor=8cc4d7)
-![Charlesproxy](https://img.shields.io/badge/-CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+
 
 Follow me
