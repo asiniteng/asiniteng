@@ -2,7 +2,7 @@
 
 
 
-## I'm a begginer QA Engineer
+## I'm a beginner QA Engineer
 
 Links
 
