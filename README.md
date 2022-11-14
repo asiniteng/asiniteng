@@ -7,14 +7,14 @@
 ### My CV
 [Link to my CV](https://drive.google.com/file/d/1X27chB3Lj19aDCFvuWB-JNLFTYJGVjOr/view?usp=share_link)
 
-### Testing Documentation
-- [Test Plans](https://drive.google.com/drive/folders/1JxH7QMoEQbfa1rVFRq4IQfdYtZyXiGyG?usp=share_link)
-- [Decompositions](https://drive.google.com/drive/folders/185rgIwzPbf2RfcwiaW2GWuRcXebkcS3h?usp=sharing)
+### Test Artifacts
+- [Test Plan](https://drive.google.com/drive/folders/1JxH7QMoEQbfa1rVFRq4IQfdYtZyXiGyG?usp=share_link)
+- [Decomposition](https://drive.google.com/drive/folders/185rgIwzPbf2RfcwiaW2GWuRcXebkcS3h?usp=sharing)
 - [Test Design](https://drive.google.com/drive/folders/1MzU7rIR_Wy0JyXQp6XaRbDzR6og94PBc?=sharing)
-- [Checklists](https://drive.google.com/drive/folders/1IqY0Awp3FfMy_rGbFo_JGVUwdwKlg7pM?usp=sharing)
-- [Test Suites | Runs](https://drive.google.com/drive/folders/1Nr_JJfUBZPULtu86GZ7NWa5LczPSIrUg?usp=sharing)
+- [Checklist | Cheat sheet](https://drive.google.com/drive/folders/1IqY0Awp3FfMy_rGbFo_JGVUwdwKlg7pM?usp=sharing)
+- [Test Suite | Case | Run](https://drive.google.com/drive/folders/1Nr_JJfUBZPULtu86GZ7NWa5LczPSIrUg?usp=sharing)
 - [Postman Collection](https://drive.google.com/drive/folders/146v-aw9fm1j3drOZ6FZ0DraUHDN_eeOH?usp=sharing)
-- [Bug reports](https://drive.google.com/drive/folders/1iKbEDtyY9RXIc2aR7KaHe8kqgI_1iE_i?usp=sharing)
+- [Bug report](https://drive.google.com/drive/folders/1iKbEDtyY9RXIc2aR7KaHe8kqgI_1iE_i?usp=sharing)
 
 ### Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
