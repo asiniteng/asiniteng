@@ -5,7 +5,7 @@
 ## I'm a beginner QA Engineer
 
 ### My CV
-- [Link to CV](https://drive.google.com/file/d/1X27chB3Lj19aDCFvuWB-JNLFTYJGVjOr/view?usp=share_link)
+- [Link to CV](https://drive.google.com/file/d/1TmM6CrOVzEMcfJ6Voukx7mn3ltm0QK9v/view?usp=share_link)
 
 ### Test Artifacts
 - [Test Plans](https://drive.google.com/drive/folders/1JxH7QMoEQbfa1rVFRq4IQfdYtZyXiGyG?usp=share_link)
