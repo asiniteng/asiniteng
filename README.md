@@ -1,4 +1,4 @@
-[![Header](https://github.com/asiniteng/asiniteng/blob/main/assets/ProfileResume.png)](https://t.me/asiniteng)
+[![Header](https://drive.google.com/file/d/1X27chB3Lj19aDCFvuWB-JNLFTYJGVjOr/view?usp=share_link)](https://t.me/asiniteng)
 
 
 
